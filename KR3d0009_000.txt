@@ -1,0 +1,8 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 野菜博錄
+#+DATE: 2015-09-12 00:49:51
+#+PROPERTY: BASEEDITION WYG
+#+PROPERTY: WITNESS SBCK
+#+PROPERTY: JUAN 0
+
+趙
